@@ -1,0 +1,24 @@
+{
+  "name": "ergonomic-viewport",
+  "version": "1.0.0",
+  "description": "ergonomic-viewport",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && NODE_ENV=test node test",
+    "test-cov": "standard && NODE_ENV=test istanbul cover test.js"
+  },
+  "repository": "yoshuawuyts/ergonomic-viewport",
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "istanbul": "^0.3.15",
+    "standard": "^4.3.1",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "LICENSE",
+    "index.js",
+    "README.md"
+  ]
+}
