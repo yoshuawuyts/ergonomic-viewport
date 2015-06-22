@@ -35,6 +35,7 @@ size, anyone?) so instead it's safer to base names on human ergonomics.
 - [active development on Categorizr has come to an end](http://brettjankord.com/2013/01/10/active-development-on-categorizr-has-come-to-an-end/)
 - [unified device static](http://static.lukew.com/unified_device_design.png)
 - [screensiz.es](http://screensiz.es/)
+- [ergonomic breakpoint](https://www.npmjs.com/package/ergonomic-breakpoint) - ergonomic CSS media queries
 
 ## License
 [MIT](https://tldrlegal.com/license/mit-license)
